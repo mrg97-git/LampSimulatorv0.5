@@ -1,1 +1,1 @@
-LampSimulatorv0.5
+Training project. Simulates the operation of electrical appliances.
